@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | MERN | Building Scalable & Intelligent Systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhipatel1108">
+  <a href="https://www.linkedin.com/in/abhi0811/">
     <img src="https://img.shields.io/badge/LinkedIn-Abhi%20Patel-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=patelabhi1108&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
